@@ -8,6 +8,6 @@ Dziyana Bortnik — Frontend
 Varvara Papova — Frontend
 
 Technologies
-Backend: Java, Spring Boot
+Backend: Java, Spring Boot,  Spring security
 Frontend: JavaScript, Vue.js
 Database: PostgreSQL
