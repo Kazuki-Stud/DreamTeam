@@ -1,9 +1,9 @@
 ### Domain Description
 
-The product is a **digital lost and found platform** that automates the matching of lost items with found ones. 
+The product is a digital lost and found platform that automates the matching of lost items with found ones. 
 
-* **What it does**: It acts as database where users reports of missing or discovered belongings. The system uses a matching engine to connect owners and finders based on keywords, locations, and item attributes.
-* **Problem it solves**: 
+**What it does**: It acts as database where users reports of missing or discovered belongings. The system uses a matching engine to connect owners and finders based on keywords, locations, and item attributes.
+**Problem it solves**: 
     * Eliminates the need to manually scroll through social media posts or local group chats to find a specific item.
     * Stops "fake finders" from seeing sensitive details used to prove ownership, preventing extortion or reward fraud.
     * Users can report items without immediately exposing their phone number or home address to the entire internet.
